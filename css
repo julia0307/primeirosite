@@ -1,0 +1,33 @@
+body{
+  background-image: url('https://image.freepik.com/vetores-gratis/teste-padrao-abstrato-da-caixa-de-neon-da-web-do-fundo-telas-a-tecnologia-da-projecao_115579-886.jpg');
+  background-size:auto 100vh;
+  font-family: Arial;
+  height:100vh;
+}
+.menu{
+  background-color:white; 
+  
+}
+
+a{
+  text-decoration:none;
+}
+
+a:hover{ 
+  text-decoration:underline;
+}
+.menu ul{
+  display:flex;
+  justify-content:space-around;
+}
+
+.menu li{
+  list-style:none;
+  
+}
+.sub-title,
+.title{
+  color:white;
+  font-family:sans-serif;
+  text-align: center;
+}
